@@ -3,6 +3,11 @@
 Thumbs.db
 node_modules/
 
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
 # --- IDEs and Editors ---
 .vscode/
 .idea/
